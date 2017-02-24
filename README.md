@@ -1,2 +1,7 @@
 # docker-nginx-flask-uwsgi-skeleton
-Testing repository for automated creation of development environment with Docker
+Docker image serving as a boilerplate for flask projects.
+
+Based on tiangolo/uwsgi-nginx-flask docker image
+Skeleton boilerplate added.
+
+Many thanks to Sebastián Ramírez.
