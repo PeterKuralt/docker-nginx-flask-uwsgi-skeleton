@@ -8,6 +8,7 @@ Skeleton boilerplate added.
 Clone the repo.
 
 Run: docker build -t <nameoftheimage> 
+
 Run: docker run -d - - name <nameofthecontainer> -p 80:80
 
 There are two dummy methods inside the main.py
