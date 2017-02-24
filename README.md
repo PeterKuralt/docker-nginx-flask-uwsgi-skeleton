@@ -7,9 +7,9 @@ Skeleton boilerplate added.
 
 Clone the repo.
 
-Run: docker build -t <nameoftheimage> 
+Run: docker build -t < nameoftheimage > 
 
-Run: docker run -d - - name <nameofthecontainer> -p 80:80
+Run: docker run -d - - name < nameofthecontainer > -p 80:80
 
 There are two dummy methods inside the main.py
 / - to check if server is working properly
