@@ -1,6 +1,6 @@
 FROM tiangolo/uwsgi-nginx-flask:flask-python3.5
 
-MAINTAINER Sebastian Ramirez <tiangolo@gmail.com>
+MAINTAINER Peter Kuralt <p.kuralt@gmail.com>
 
 #Copy app folder with the main.py flask script
 
